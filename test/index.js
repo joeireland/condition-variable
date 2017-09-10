@@ -5,3 +5,4 @@ require('./04-complete-then-wait.js');
 require('./05-cancel-then-wait.js');
 require('./06-double-complete.js');
 require('./07-double-cancel.js');
+require('./08-wait-with-zero-timeout.js');
