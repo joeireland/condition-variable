@@ -1,0 +1,36 @@
+{
+  "name": "condition-variable",
+  "version": "0.0.1",
+  "description": "An asynchronous condition variable for implemented internally using Promises",
+  "main": "CondVar.js",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "test": "node test",
+    "travis": "istanbul cover test --report lcovonly && cat coverage/lconv.info | coveralls"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.2",
+    "tape": "^2.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeireland/condition-variable.git"
+  },
+  "keywords": [
+    "condition",
+    "variable",
+    "promises",
+    "async",
+    "concurrency",
+    "concurrent"
+  ],
+  "bugs": {
+    "url": "https://github.com/joeireland/condition-variable/issues"
+  },
+  "homepage": "https://github.com/joeireland/condition-variable#readme",
+  "author": "Joe Ireland <joe.ireland@gmail.com>",
+  "license": "MIT"
+}
