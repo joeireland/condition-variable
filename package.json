@@ -1,6 +1,6 @@
 {
   "name": "condition-variable",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An asynchronous condition variable for implemented internally using Promises",
   "main": "CondVar.js",
   "engines": {
