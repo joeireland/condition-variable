@@ -5,6 +5,7 @@ An asynchronous condition variable for JavaScript implemented internally using P
 [![License MIT](https://img.shields.io/npm/l/express.svg)](http://opensource.org/licenses/MIT)
 [![tests](https://travis-ci.org/joeireland/condition-variable.svg?branch=master)](https://travis-ci.org/joeireland/condition-variable)
 [![Coverage Status](https://img.shields.io/coveralls/joeireland/condition-variable.svg?branch=master)](https://coveralls.io/github/joeireland/condition-variable?branch=master)
+[![Known Vulnerabilities](https://snyk.io/test/github/joeireland/condition-variable/badge.svg)](https://snyk.io/test/github/joeireland/condition-variable)
 [![npm](https://img.shields.io/npm/v/condition-variable.svg)](http://www.npmjs.org/condition-variable)
 [![slack](https://img.shields.io/badge/slack-condition--variable-blue.svg)](https://joeireland.slack.com/messages/condition-variable)
 
